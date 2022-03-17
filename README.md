@@ -7,7 +7,7 @@
 <hr>
 
 
-# Credit Default Prediction Algorithm in Bank Marketing Dataset
+<h1 align='center'> Credit Default Prediction Algorithm in Bank Marketing Dataset </h1>
 
 <hr>
 
